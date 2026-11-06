@@ -1,0 +1,1165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mus-data//TUS Denemeleri//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUS Denemeleri 2026-2027
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Istanbul
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:+03
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:tusmer-1-2026-11-05@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261105T100000
+DTEND;TZID=Europe/Istanbul:20261108T235900
+SUMMARY:TUSMER – 1. Deneme
+DESCRIPTION:Çözme aralığı: 05.11.2026 10:00 – 08.11.2026 23:59\nGiri
+ ş: https://www.tusmer.com/sinav/kasim-2026\nKayıt sayfası.
+URL:https://www.tusmer.com/sinav/kasim-2026
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 1. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-1-2026-11-12@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261112T083000
+DTEND;TZID=Europe/Istanbul:20261114T235900
+SUMMARY:TUSEM – 1. Deneme
+DESCRIPTION:Çözme aralığı: 12.11.2026 08:30 – 14.11.2026 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 1. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-1-2026-11-19@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261119T083000
+DTEND;TZID=Europe/Istanbul:20261121T235900
+SUMMARY:TUSDATA – 1. Deneme
+DESCRIPTION:Çözme aralığı: 19.11.2026 08:30 – 21.11.2026 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 1. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-131-2026-11-26@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261126T080000
+DTEND;TZID=Europe/Istanbul:20261128T235900
+SUMMARY:TUSTIME – 131. Deneme
+DESCRIPTION:Çözme aralığı: 26.11.2026 08:00 – 28.11.2026 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 131. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-2-2026-12-03@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261203T100000
+DTEND;TZID=Europe/Istanbul:20261206T235900
+SUMMARY:TUSMER – 2. Deneme
+DESCRIPTION:Çözme aralığı: 03.12.2026 10:00 – 06.12.2026 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 2. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-2-2026-12-10@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261210T083000
+DTEND;TZID=Europe/Istanbul:20261212T235900
+SUMMARY:TUSEM – 2. Deneme
+DESCRIPTION:Çözme aralığı: 10.12.2026 08:30 – 12.12.2026 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 2. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tipdemy-1-2026-12-11@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Tıpdemy – 1. Deneme
+DESCRIPTION:Çözme aralığı: 11.12.2026 (tek gün)\nGiriş: https://www.
+ tipdemy.com/tus-deneme-sinavi/\nÜcretsiz. Saat belirtilmemiş\; Şubat 20
+ 26 denemesinde kitapçıklar 10:00'da açılmıştı. Bu link en güncel d
+ eneme sayfasına yönlendiriyor.
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Tıpdemy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tıpdemy – 1. Deneme 2 gün sonra başlıyor
+TRIGGER:-P1DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-2-2026-12-17@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261217T083000
+DTEND;TZID=Europe/Istanbul:20261219T235900
+SUMMARY:TUSDATA – 2. Deneme
+DESCRIPTION:Çözme aralığı: 17.12.2026 08:30 – 19.12.2026 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 2. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-132-2026-12-31@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20261231T080000
+DTEND;TZID=Europe/Istanbul:20270102T235900
+SUMMARY:TUSTIME – 132. Deneme
+DESCRIPTION:Çözme aralığı: 31.12.2026 08:00 – 02.01.2027 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 132. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-3-2027-01-07@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270107T100000
+DTEND;TZID=Europe/Istanbul:20270110T235900
+SUMMARY:TUSMER – 3. Deneme
+DESCRIPTION:Çözme aralığı: 07.01.2027 10:00 – 10.01.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 3. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-3-2027-01-14@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270114T083000
+DTEND;TZID=Europe/Istanbul:20270116T235900
+SUMMARY:TUSEM – 3. Deneme
+DESCRIPTION:Çözme aralığı: 14.01.2027 08:30 – 16.01.2027 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 3. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tipdemy-2-2027-01-15@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Tıpdemy – 2. Deneme
+DESCRIPTION:Çözme aralığı: 15.01.2027 (tek gün)\nGiriş: https://www.
+ tipdemy.com/tus-deneme-sinavi/\nÜcretsiz. Saat belirtilmemiş\; Şubat 20
+ 26 denemesinde kitapçıklar 10:00'da açılmıştı. Bu link en güncel d
+ eneme sayfasına yönlendiriyor.
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Tıpdemy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tıpdemy – 2. Deneme 2 gün sonra başlıyor
+TRIGGER:-P1DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-3-2027-01-21@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270121T083000
+DTEND;TZID=Europe/Istanbul:20270123T235900
+SUMMARY:TUSDATA – 3. Deneme
+DESCRIPTION:Çözme aralığı: 21.01.2027 08:30 – 23.01.2027 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 3. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-133-2027-01-28@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270128T080000
+DTEND;TZID=Europe/Istanbul:20270130T235900
+SUMMARY:TUSTIME – 133. Deneme
+DESCRIPTION:Çözme aralığı: 28.01.2027 08:00 – 30.01.2027 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 133. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-4-2027-02-04@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270204T100000
+DTEND;TZID=Europe/Istanbul:20270207T235900
+SUMMARY:TUSMER – 4. Deneme
+DESCRIPTION:Çözme aralığı: 04.02.2027 10:00 – 07.02.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 4. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-4-2027-02-11@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270211T083000
+DTEND;TZID=Europe/Istanbul:20270213T235900
+SUMMARY:TUSEM – 4. Deneme
+DESCRIPTION:Çözme aralığı: 11.02.2027 08:30 – 13.02.2027 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 4. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tipdemy-3-2027-02-12@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Tıpdemy – 3. Deneme
+DESCRIPTION:Çözme aralığı: 12.02.2027 (tek gün)\nGiriş: https://www.
+ tipdemy.com/tus-deneme-sinavi/\nÜcretsiz. Saat belirtilmemiş\; Şubat 20
+ 26 denemesinde kitapçıklar 10:00'da açılmıştı. Bu link en güncel d
+ eneme sayfasına yönlendiriyor.
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Tıpdemy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tıpdemy – 3. Deneme 2 gün sonra başlıyor
+TRIGGER:-P1DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-4-2027-02-18@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270218T083000
+DTEND;TZID=Europe/Istanbul:20270220T235900
+SUMMARY:TUSDATA – 4. Deneme
+DESCRIPTION:Çözme aralığı: 18.02.2027 08:30 – 20.02.2027 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 4. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-134-2027-02-25@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270225T080000
+DTEND;TZID=Europe/Istanbul:20270227T235900
+SUMMARY:TUSTIME – 134. Deneme
+DESCRIPTION:Çözme aralığı: 25.02.2027 08:00 – 27.02.2027 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 134. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-5-2027-03-04@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270304T100000
+DTEND;TZID=Europe/Istanbul:20270307T235900
+SUMMARY:TUSMER – 5. Deneme
+DESCRIPTION:Çözme aralığı: 04.03.2027 10:00 – 07.03.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 5. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-5-2027-04-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270408T083000
+DTEND;TZID=Europe/Istanbul:20270410T235900
+SUMMARY:TUSEM – 5. Deneme
+DESCRIPTION:Çözme aralığı: 08.04.2027 08:30 – 10.04.2027 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 5. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-6-2027-04-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270408T100000
+DTEND;TZID=Europe/Istanbul:20270411T235900
+SUMMARY:TUSMER – 6. Deneme
+DESCRIPTION:Çözme aralığı: 08.04.2027 10:00 – 11.04.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 6. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-5-2027-04-15@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270415T083000
+DTEND;TZID=Europe/Istanbul:20270417T235900
+SUMMARY:TUSDATA – 5. Deneme
+DESCRIPTION:Çözme aralığı: 15.04.2027 08:30 – 17.04.2027 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 5. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-135-2027-04-29@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270429T080000
+DTEND;TZID=Europe/Istanbul:20270501T235900
+SUMMARY:TUSTIME – 135. Deneme
+DESCRIPTION:Çözme aralığı: 29.04.2027 08:00 – 01.05.2027 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 135. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-6-2027-05-06@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270506T083000
+DTEND;TZID=Europe/Istanbul:20270508T235900
+SUMMARY:TUSEM – 6. Deneme
+DESCRIPTION:Çözme aralığı: 06.05.2027 08:30 – 08.05.2027 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 6. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-7-2027-05-06@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270506T100000
+DTEND;TZID=Europe/Istanbul:20270509T235900
+SUMMARY:TUSMER – 7. Deneme
+DESCRIPTION:Çözme aralığı: 06.05.2027 10:00 – 09.05.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 7. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-6-2027-05-13@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270513T083000
+DTEND;TZID=Europe/Istanbul:20270515T235900
+SUMMARY:TUSDATA – 6. Deneme
+DESCRIPTION:Çözme aralığı: 13.05.2027 08:30 – 15.05.2027 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 6. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tipdemy-4-2027-05-14@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Tıpdemy – 4. Deneme
+DESCRIPTION:Çözme aralığı: 14.05.2027 (tek gün)\nGiriş: https://www.
+ tipdemy.com/tus-deneme-sinavi/\nÜcretsiz. Saat belirtilmemiş\; Şubat 20
+ 26 denemesinde kitapçıklar 10:00'da açılmıştı. Bu link en güncel d
+ eneme sayfasına yönlendiriyor.
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Tıpdemy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tıpdemy – 4. Deneme 2 gün sonra başlıyor
+TRIGGER:-P1DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-136-2027-05-27@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270527T080000
+DTEND;TZID=Europe/Istanbul:20270529T235900
+SUMMARY:TUSTIME – 136. Deneme
+DESCRIPTION:Çözme aralığı: 27.05.2027 08:00 – 29.05.2027 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 136. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-8-2027-06-03@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270603T100000
+DTEND;TZID=Europe/Istanbul:20270606T235900
+SUMMARY:TUSMER – 8. Deneme
+DESCRIPTION:Çözme aralığı: 03.06.2027 10:00 – 06.06.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 8. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-7-2027-06-10@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270610T083000
+DTEND;TZID=Europe/Istanbul:20270612T235900
+SUMMARY:TUSEM – 7. Deneme
+DESCRIPTION:Çözme aralığı: 10.06.2027 08:30 – 12.06.2027 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 7. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-7-2027-06-17@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270617T083000
+DTEND;TZID=Europe/Istanbul:20270619T235900
+SUMMARY:TUSDATA – 7. Deneme
+DESCRIPTION:Çözme aralığı: 17.06.2027 08:30 – 19.06.2027 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 7. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tipdemy-5-2027-06-18@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Tıpdemy – 5. Deneme
+DESCRIPTION:Çözme aralığı: 18.06.2027 (tek gün)\nGiriş: https://www.
+ tipdemy.com/tus-deneme-sinavi/\nÜcretsiz. Saat belirtilmemiş\; Şubat 20
+ 26 denemesinde kitapçıklar 10:00'da açılmıştı. Bu link en güncel d
+ eneme sayfasına yönlendiriyor.
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Tıpdemy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tıpdemy – 5. Deneme 2 gün sonra başlıyor
+TRIGGER:-P1DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-137-2027-06-24@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270624T080000
+DTEND;TZID=Europe/Istanbul:20270626T235900
+SUMMARY:TUSTIME – 137. Deneme
+DESCRIPTION:Çözme aralığı: 24.06.2027 08:00 – 26.06.2027 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 137. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusem-8-2027-07-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270708T083000
+DTEND;TZID=Europe/Istanbul:20270710T235900
+SUMMARY:TUSEM – 8. Deneme
+DESCRIPTION:Çözme aralığı: 08.07.2027 08:30 – 10.07.2027 23:59\nGiri
+ ş: https://tusemportal.com/online-deneme-sinavlari\nTUSEM Portal online d
+ eneme sayfası.
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:TUSEM
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSEM – 8. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-9-2027-07-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270708T100000
+DTEND;TZID=Europe/Istanbul:20270711T235900
+SUMMARY:TUSMER – 9. Deneme
+DESCRIPTION:Çözme aralığı: 08.07.2027 10:00 – 11.07.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 9. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tipdemy-6-2027-07-16@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Tıpdemy – 6. Deneme
+DESCRIPTION:Çözme aralığı: 16.07.2027 (tek gün)\nGiriş: https://www.
+ tipdemy.com/tus-deneme-sinavi/\nÜcretsiz. Saat belirtilmemiş\; Şubat 20
+ 26 denemesinde kitapçıklar 10:00'da açılmıştı. Bu link en güncel d
+ eneme sayfasına yönlendiriyor.
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Tıpdemy
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tıpdemy – 6. Deneme 2 gün sonra başlıyor
+TRIGGER:-P1DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusdata-8-2027-07-22@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270722T083000
+DTEND;TZID=Europe/Istanbul:20270724T235900
+SUMMARY:TUSDATA – 8. Deneme
+DESCRIPTION:Çözme aralığı: 22.07.2027 08:30 – 24.07.2027 23:59\nGiri
+ ş: https://www.meditest.com\nTusdata Meditest deneme sistemi.
+URL:https://www.meditest.com
+CATEGORIES:TUSDATA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSDATA – 8. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tustime-138-2027-07-29@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270729T080000
+DTEND;TZID=Europe/Istanbul:20270731T235900
+SUMMARY:TUSTIME – 138. Deneme
+DESCRIPTION:Çözme aralığı: 29.07.2027 08:00 – 31.07.2027 23:59\nGiri
+ ş: https://www.tustime.com/tus-deneme-sinavlarimiz\n5 saat\, 200 soru\, 2
+ 50 TL. Önce satın alman gerekiyor.
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:TUSTIME
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSTIME – 138. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tusmer-10-2027-08-05@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;TZID=Europe/Istanbul:20270805T100000
+DTEND;TZID=Europe/Istanbul:20270808T235900
+SUMMARY:TUSMER – 10. Deneme
+DESCRIPTION:Çözme aralığı: 05.08.2027 10:00 – 08.08.2027 23:59\nGiri
+ ş: https://www.tusmer.com/\nSitede menüden Deneme Sınavı'na gir. Bu ay
+ ın sayfası henüz yayında değildi.
+URL:https://www.tusmer.com/
+CATEGORIES:TUSMER
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUSMER – 10. Deneme 2 gün sonra başlıyor
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-1-2026-11-12@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:⏰ TUSEM – 1. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-1-2026-11-19@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:⏰ TUSDATA – 1. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-131-2026-11-26@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:⏰ TUSTIME – 131. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-2-2026-12-03@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:⏰ TUSMER – 2. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-2-2026-12-10@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:⏰ TUSEM – 2. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tipdemy-1-2026-12-11@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:⏰ Tıpdemy – 1. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tipdemy.com/tus-deneme-sinavi/
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-2-2026-12-17@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:⏰ TUSDATA – 2. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-132-2026-12-31@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:⏰ TUSTIME – 132. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-3-2027-01-07@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:⏰ TUSMER – 3. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-3-2027-01-14@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:⏰ TUSEM – 3. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tipdemy-2-2027-01-15@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:⏰ Tıpdemy – 2. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tipdemy.com/tus-deneme-sinavi/
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-3-2027-01-21@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:⏰ TUSDATA – 3. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-133-2027-01-28@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:⏰ TUSTIME – 133. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-4-2027-02-04@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:⏰ TUSMER – 4. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-4-2027-02-11@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:⏰ TUSEM – 4. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tipdemy-3-2027-02-12@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:⏰ Tıpdemy – 3. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tipdemy.com/tus-deneme-sinavi/
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-4-2027-02-18@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:⏰ TUSDATA – 4. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-134-2027-02-25@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:⏰ TUSTIME – 134. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-5-2027-03-04@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:⏰ TUSMER – 5. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-5-2027-04-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:⏰ TUSEM – 5. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-6-2027-04-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:⏰ TUSMER – 6. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-5-2027-04-15@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:⏰ TUSDATA – 5. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-135-2027-04-29@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:⏰ TUSTIME – 135. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-6-2027-05-06@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:⏰ TUSEM – 6. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-7-2027-05-06@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:⏰ TUSMER – 7. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-6-2027-05-13@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:⏰ TUSDATA – 6. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tipdemy-4-2027-05-14@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:⏰ Tıpdemy – 4. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tipdemy.com/tus-deneme-sinavi/
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-136-2027-05-27@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:⏰ TUSTIME – 136. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-8-2027-06-03@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:⏰ TUSMER – 8. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-7-2027-06-10@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:⏰ TUSEM – 7. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-7-2027-06-17@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:⏰ TUSDATA – 7. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tipdemy-5-2027-06-18@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:⏰ Tıpdemy – 5. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tipdemy.com/tus-deneme-sinavi/
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-137-2027-06-24@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:⏰ TUSTIME – 137. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusem-8-2027-07-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:⏰ TUSEM – 8. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://tusemportal.com/online-deneme-sinavlari
+URL:https://tusemportal.com/online-deneme-sinavlari
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-9-2027-07-08@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:⏰ TUSMER – 9. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tipdemy-6-2027-07-16@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:⏰ Tıpdemy – 6. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tipdemy.com/tus-deneme-sinavi/
+URL:https://www.tipdemy.com/tus-deneme-sinavi/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusdata-8-2027-07-22@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:⏰ TUSDATA – 8. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.meditest.com
+URL:https://www.meditest.com
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tustime-138-2027-07-29@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:⏰ TUSTIME – 138. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tustime.com/tus-deneme-sinavlarimiz
+URL:https://www.tustime.com/tus-deneme-sinavlarimiz
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatirlatma-tusmer-10-2027-08-05@tus-denemeleri
+DTSTAMP:20261106T090000Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:⏰ TUSMER – 10. Deneme: 2 gün kaldı
+DESCRIPTION:Giriş: https://www.tusmer.com/
+URL:https://www.tusmer.com/
+CATEGORIES:Hatırlatma
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
